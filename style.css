@@ -1,1 +1,70 @@
+body {
+  background-color: #242f44;
+  color: white;
+    font-family: 'Oswald', sans-serif;
+}
+body {
+  font-family: Helvetica;
+}
+p{
+  Font-Family:Arial;
+  color:pink;
+}
+p2 {
+  Font-family:Arial;
+  color:purple;
+}
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+header{
+ font-family: Helvetica;
+}
+h1 {
+  font-size: 36px;
+  padding: 15px;
+  color: #8c6b48;
+  background-color: white;
+}
+h2 {
+  font-size: 24px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+footer {
+  margin-top: 50px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  background-color: #242f44;
+  z-index: 5;
+}
+footer h2 {
+  display: inline-block;
+  font-size: 14px;
+  background-color: #242f44;
+}
+ol {
+  text-align: center;
+  margin-top: 5px;
+}
+ol{
+  margin-top: 50px;
+  text-align: center;
+}
+ul{
+font-size: 36px;
+  padding: 15px;
+  color: #8c6b48;
+  background-color: white;
+}
+ul{
+  display: inline-block;
+  font-size: 14px;
+  background-color: #242f44;
+}
 
+
+  
